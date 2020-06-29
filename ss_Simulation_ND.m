@@ -1,7 +1,7 @@
 % Sensor Noise & Disturbance Compensation Using Kalman Filter (KF) Gain & LQR Controller
 % Author: Abolfazl Roostaeiparidari
 % Email: roostaeiabolfazl@gmail.com
-% Thanks to Steven L. Brunton - Washington University
+% Thanks to Steven L. Brunton - University of Washington
 
 % State Matrices
 Ix=1000;
